@@ -194,12 +194,15 @@
 
 **加密货币** - 国际用户
 
-- **USDT (TRC20)**: `(此处填写您的 TRC20 收款地址)`
-- **ETH (ERC20)**: `(此处填写您的 ETH 收款地址)`
+| 币种 | 网络 (Network) | 地址 (Click to Copy) |
+| :--- | :--- | :--- |
+| **USDT** | **BSC (BEP20)** / Polygon / ETH | `0x0de4d19673cbdf954cfb83c0a48abb5ce8f6bf58` |
+
+> ⚠️ 注意：此地址仅支持 EVM 兼容链 (以太坊/币安链/Polygon等)，请不要充值 TRC20 (波场) 资产！！！
 
 **爱发电** - 国内用户
 
-- https://aifadian.com/a/
+[![爱发电](https://img.shields.io/badge/爱发电-Aifadian-946ce6?style=for-the-badge&logo=github&logoColor=white)](https://aifadian.com/a/lostfree)
 
 ---
 
